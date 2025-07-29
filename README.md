@@ -1,4 +1,4 @@
-# garak, LLM vulnerability scanner
+# garak, LLM vulnerability scanner for Uniswap 
 
 *Generative AI Red-teaming & Assessment Kit*
 
