@@ -1,6 +1,6 @@
 # garak, LLM vulnerability scanner for Uniswap 
 
-*Generative AI Red-teaming & Assessment Kit*
+*Generative AI Red-teaming & Assessment Kit for Uniswap*
 
 `garak` checks if an LLM can be made to fail in a way we don't want. `garak` probes for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses. If you know `nmap` or `msf` / Metasploit Framework, garak does somewhat similar things to them, but for LLMs. 
 
